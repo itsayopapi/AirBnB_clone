@@ -171,4 +171,4 @@ The recognizable commands by the interpreter are the following:
 
 Toro Jonah| Github:https://github.com/BLACKNINJA007
 
-Ayo Hassan| Github:https://github.com/AfricanGorilla
+Ayo Hassan| Github:https://github.com/Ayocoding12
